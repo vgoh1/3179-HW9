@@ -4,6 +4,7 @@
   "projection": { "type": "equalEarth" },
   "width": 800,
   "height": 500,
+  "title": "Prevalence of undernourishment (%) (3 year average)",
   "data": {
     "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
     "format": { "type": "topojson", "feature": "world.geo" }
@@ -16,14 +17,13 @@
           "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/data.csv"
         },
         "key": "Area",
-        "fields": ["Value"]
+        "fields": ["Value", "Area", "YearCode"]
       }
     },
     {
-      "filter": {
-        "field": "YearCode",
-        "equal": "20152017"
-      }
+      "bin": true,
+      "field": "Value",
+      "as": "Value Binned"
     }
   ],
   "mark": {
@@ -31,8 +31,16 @@
   },
   "encoding": {
     "color": {
-      "field": "Value",
+      "bin": {
+        "binned": true,
+        "step": 10
+      },
+      "field": "Value Binned",
       "type": "quantitative"
-    }
+    },
+    "tooltip": [
+      { "field": "Area", "type": "nominal" },
+      { "field": "Value", "type": "quantitative" }
+    ]
   }
 }
