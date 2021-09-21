@@ -1,0 +1,653 @@
+Country,Year,Value,BinValue
+Afghanistan,2016,22.2,20-29
+Afghanistan,2017,23,20-29
+Afghanistan,2018,23.4,20-29
+Afghanistan,2019,25.6,20-29
+Albania,2016,4.3,<10
+Albania,2017,4.1,<10
+Albania,2018,4,<10
+Albania,2019,3.9,<10
+Algeria,2016,2.8,<10
+Algeria,2017,2.7,<10
+Algeria,2018,<2.5,<10
+Algeria,2019,<2.5,<10
+Angola,2016,15.4,10-19
+Angola,2017,15.4,10-19
+Angola,2018,15.5,10-19
+Angola,2019,17.3,10-19
+Argentina,2016,2.6,<10
+Argentina,2017,3.1,<10
+Argentina,2018,3.5,<10
+Argentina,2019,3.9,<10
+Armenia,2016,2.8,<10
+Armenia,2017,3.1,<10
+Armenia,2018,3.2,<10
+Armenia,2019,3.4,<10
+Australia,2016,<2.5,<10
+Australia,2017,<2.5,<10
+Australia,2018,<2.5,<10
+Australia,2019,<2.5,<10
+Austria,2016,<2.5,<10
+Austria,2017,<2.5,<10
+Austria,2018,<2.5,<10
+Austria,2019,<2.5,<10
+Azerbaijan,2016,<2.5,<10
+Azerbaijan,2017,<2.5,<10
+Azerbaijan,2018,<2.5,<10
+Azerbaijan,2019,<2.5,<10
+Bangladesh,2016,13.3,10-19
+Bangladesh,2017,12.5,10-19
+Bangladesh,2018,10.8,10-19
+Bangladesh,2019,9.7,<10
+Barbados,2016,4.3,<10
+Barbados,2017,4.3,<10
+Barbados,2018,4.2,<10
+Barbados,2019,4.1,<10
+Belarus,2016,<2.5,<10
+Belarus,2017,<2.5,<10
+Belarus,2018,<2.5,<10
+Belarus,2019,<2.5,<10
+Belgium,2016,<2.5,<10
+Belgium,2017,<2.5,<10
+Belgium,2018,<2.5,<10
+Belgium,2019,<2.5,<10
+Belize,2016,7.2,<10
+Belize,2017,6.7,<10
+Belize,2018,6.2,<10
+Belize,2019,5.9,<10
+Benin,2016,7.3,<10
+Benin,2017,7.2,<10
+Benin,2018,7.3,<10
+Benin,2019,7.6,<10
+Bolivia (Plurinational State of),2016,13.1,10-19
+Bolivia (Plurinational State of),2017,12.5,10-19
+Bolivia (Plurinational State of),2018,12.6,10-19
+Bolivia (Plurinational State of),2019,12.6,10-19
+Bosnia and Herzegovina,2016,<2.5,<10
+Bosnia and Herzegovina,2017,<2.5,<10
+Bosnia and Herzegovina,2018,<2.5,<10
+Bosnia and Herzegovina,2019,<2.5,<10
+Botswana,2016,27.7,20-29
+Botswana,2017,28.9,20-29
+Botswana,2018,29.5,20-29
+Botswana,2019,29.3,20-29
+Brazil,2016,<2.5,<10
+Brazil,2017,<2.5,<10
+Brazil,2018,<2.5,<10
+Brazil,2019,<2.5,<10
+Brunei Darussalam,2016,<2.5,<10
+Brunei Darussalam,2017,<2.5,<10
+Brunei Darussalam,2018,<2.5,<10
+Brunei Darussalam,2019,<2.5,<10
+Bulgaria,2016,3.6,<10
+Bulgaria,2017,3.1,<10
+Bulgaria,2018,2.8,<10
+Bulgaria,2019,3,<10
+Burkina Faso,2016,12.3,10-19
+Burkina Faso,2017,12.4,10-19
+Burkina Faso,2018,12.7,10-19
+Burkina Faso,2019,14.4,10-19
+Cabo Verde,2016,17,10-19
+Cabo Verde,2017,16.7,10-19
+Cabo Verde,2018,16.2,10-19
+Cabo Verde,2019,15.4,10-19
+Cambodia,2016,8.5,<10
+Cambodia,2017,7.7,<10
+Cambodia,2018,6.8,<10
+Cambodia,2019,6.2,<10
+Cameroon,2016,5.5,<10
+Cameroon,2017,5.6,<10
+Cameroon,2018,5.6,<10
+Cameroon,2019,5.3,<10
+Canada,2016,<2.5,<10
+Canada,2017,<2.5,<10
+Canada,2018,<2.5,<10
+Canada,2019,<2.5,<10
+Central African Republic,2016,48.6,40-49
+Central African Republic,2017,46.1,40-49
+Central African Republic,2018,46.7,40-49
+Central African Republic,2019,48.2,40-49
+Chad,2016,28.5,20-29
+Chad,2017,29.1,20-29
+Chad,2018,30.4,30-39
+Chad,2019,31.7,30-39
+Chile,2016,3.1,<10
+Chile,2017,3,<10
+Chile,2018,3,<10
+Chile,2019,3.4,<10
+China,2016,<2.5,<10
+China,2017,<2.5,<10
+China,2018,<2.5,<10
+China,2019,<2.5,<10
+China, Hong Kong SAR,2016,<2.5,<10
+China, Hong Kong SAR,2017,<2.5,<10
+China, Hong Kong SAR,2018,<2.5,<10
+China, Hong Kong SAR,2019,<2.5,<10
+China, Macao SAR,2016,5,<10
+China, Macao SAR,2017,4.8,<10
+China, Macao SAR,2018,4.5,<10
+China, Macao SAR,2019,4.3,<10
+China, mainland,2016,<2.5,<10
+China, mainland,2017,<2.5,<10
+China, mainland,2018,<2.5,<10
+China, mainland,2019,<2.5,<10
+China, Taiwan Province of,2016,3.9,<10
+China, Taiwan Province of,2017,3.7,<10
+China, Taiwan Province of,2018,3.6,<10
+China, Taiwan Province of,2019,3.3,<10
+Colombia,2016,6.8,<10
+Colombia,2017,7.1,<10
+Colombia,2018,7.9,<10
+Colombia,2019,8.8,<10
+Congo,2016,34.6,30-39
+Congo,2017,36,30-39
+Congo,2018,36.8,30-39
+Congo,2019,37.7,30-39
+Costa Rica,2016,3.6,<10
+Costa Rica,2017,3.1,<10
+Costa Rica,2018,3,<10
+Costa Rica,2019,3.1,<10
+Côte d'Ivoire,2016,15.5,10-19
+Côte d'Ivoire,2017,15,10-19
+Côte d'Ivoire,2018,14.9,10-19
+Côte d'Ivoire,2019,14.9,10-19
+Croatia,2016,<2.5,<10
+Croatia,2017,<2.5,<10
+Croatia,2018,<2.5,<10
+Croatia,2019,<2.5,<10
+Cuba,2016,<2.5,<10
+Cuba,2017,<2.5,<10
+Cuba,2018,<2.5,<10
+Cuba,2019,<2.5,<10
+Cyprus,2016,<2.5,<10
+Cyprus,2017,<2.5,<10
+Cyprus,2018,<2.5,<10
+Cyprus,2019,<2.5,<10
+Czechia,2016,<2.5,<10
+Czechia,2017,<2.5,<10
+Czechia,2018,<2.5,<10
+Czechia,2019,<2.5,<10
+Democratic People's Republic of Korea,2016,41.2,40-49
+Democratic People's Republic of Korea,2017,42.9,40-49
+Democratic People's Republic of Korea,2018,42.6,40-49
+Democratic People's Republic of Korea,2019,42.4,40-49
+Democratic Republic of the Congo,2016,39.9,30-39
+Democratic Republic of the Congo,2017,40.2,40-49
+Democratic Republic of the Congo,2018,40.4,40-49
+Democratic Republic of the Congo,2019,41.7,40-49
+Denmark,2016,<2.5,<10
+Denmark,2017,<2.5,<10
+Denmark,2018,<2.5,<10
+Denmark,2019,<2.5,<10
+Djibouti,2016,16.7,10-19
+Djibouti,2017,16.4,10-19
+Djibouti,2018,16,10-19
+Djibouti,2019,16.2,10-19
+Dominica,2016,5,<10
+Dominica,2017,5.3,<10
+Dominica,2018,5.5,<10
+Dominica,2019,5.6,<10
+Dominican Republic,2016,6.8,<10
+Dominican Republic,2017,6.4,<10
+Dominican Republic,2018,6.7,<10
+Dominican Republic,2019,8.3,<10
+Ecuador,2016,9.7,<10
+Ecuador,2017,10.7,10-19
+Ecuador,2018,11.2,10-19
+Ecuador,2019,12.4,10-19
+Egypt,2016,4.6,<10
+Egypt,2017,4.9,<10
+Egypt,2018,5.1,<10
+Egypt,2019,5.4,<10
+El Salvador,2016,9.9,<10
+El Salvador,2017,9.1,<10
+El Salvador,2018,8.6,<10
+El Salvador,2019,8.5,<10
+Estonia,2016,<2.5,<10
+Estonia,2017,<2.5,<10
+Estonia,2018,<2.5,<10
+Estonia,2019,<2.5,<10
+Eswatini,2016,13,10-19
+Eswatini,2017,12.4,10-19
+Eswatini,2018,11.9,10-19
+Eswatini,2019,11.6,10-19
+Ethiopia,2016,13.8,10-19
+Ethiopia,2017,14,10-19
+Ethiopia,2018,14.4,10-19
+Ethiopia,2019,16.2,10-19
+Fiji,2016,6.3,<10
+Fiji,2017,6.3,<10
+Fiji,2018,5.8,<10
+Fiji,2019,5.6,<10
+Finland,2016,<2.5,<10
+Finland,2017,<2.5,<10
+Finland,2018,<2.5,<10
+Finland,2019,<2.5,<10
+France,2016,<2.5,<10
+France,2017,<2.5,<10
+France,2018,<2.5,<10
+France,2019,<2.5,<10
+French Polynesia,2016,3.8,<10
+French Polynesia,2017,4,<10
+French Polynesia,2018,3.9,<10
+French Polynesia,2019,3.8,<10
+Gabon,2016,15,10-19
+Gabon,2017,16,10-19
+Gabon,2018,16.2,10-19
+Gabon,2019,15.7,10-19
+Gambia,2016,11.7,10-19
+Gambia,2017,11.9,10-19
+Gambia,2018,12.4,10-19
+Gambia,2019,13.6,10-19
+Georgia,2016,8.3,<10
+Georgia,2017,8.3,<10
+Georgia,2018,8.1,<10
+Georgia,2019,8.7,<10
+Germany,2016,<2.5,<10
+Germany,2017,<2.5,<10
+Germany,2018,<2.5,<10
+Germany,2019,<2.5,<10
+Ghana,2016,7.6,<10
+Ghana,2017,7.1,<10
+Ghana,2018,6.4,<10
+Ghana,2019,6.1,<10
+Greece,2016,<2.5,<10
+Greece,2017,<2.5,<10
+Greece,2018,<2.5,<10
+Greece,2019,<2.5,<10
+Guatemala,2016,16.4,10-19
+Guatemala,2017,16.3,10-19
+Guatemala,2018,16,10-19
+Guatemala,2019,16.8,10-19
+Guyana,2016,6.3,<10
+Guyana,2017,6,<10
+Guyana,2018,5.5,<10
+Guyana,2019,5.2,<10
+Haiti,2016,46.7,40-49
+Haiti,2017,48,40-49
+Haiti,2018,47.9,40-49
+Haiti,2019,46.8,40-49
+Honduras,2016,13.8,10-19
+Honduras,2017,13.2,10-19
+Honduras,2018,13.1,10-19
+Honduras,2019,13.5,10-19
+Hungary,2016,<2.5,<10
+Hungary,2017,<2.5,<10
+Hungary,2018,<2.5,<10
+Hungary,2019,<2.5,<10
+Iceland,2016,<2.5,<10
+Iceland,2017,<2.5,<10
+Iceland,2018,<2.5,<10
+Iceland,2019,<2.5,<10
+India,2016,14.2,10-19
+India,2017,13.8,10-19
+India,2018,14,10-19
+India,2019,15.3,10-19
+Indonesia,2016,6.8,<10
+Indonesia,2017,6.4,<10
+Indonesia,2018,6.4,<10
+Indonesia,2019,6.5,<10
+Iran (Islamic Republic of),2016,4.9,<10
+Iran (Islamic Republic of),2017,5.2,<10
+Iran (Islamic Republic of),2018,5.4,<10
+Iran (Islamic Republic of),2019,5.5,<10
+Iraq,2016,38.4,30-39
+Iraq,2017,37.9,30-39
+Iraq,2018,37.4,30-39
+Iraq,2019,37.5,30-39
+Ireland,2016,<2.5,<10
+Ireland,2017,<2.5,<10
+Ireland,2018,<2.5,<10
+Ireland,2019,<2.5,<10
+Israel,2016,<2.5,<10
+Israel,2017,<2.5,<10
+Israel,2018,<2.5,<10
+Israel,2019,<2.5,<10
+Italy,2016,<2.5,<10
+Italy,2017,<2.5,<10
+Italy,2018,<2.5,<10
+Italy,2019,<2.5,<10
+Jamaica,2016,9.3,<10
+Jamaica,2017,8.8,<10
+Jamaica,2018,7.7,<10
+Jamaica,2019,7.7,<10
+Japan,2016,<2.5,<10
+Japan,2017,<2.5,<10
+Japan,2018,<2.5,<10
+Japan,2019,<2.5,<10
+Jordan,2016,7.1,<10
+Jordan,2017,7.7,<10
+Jordan,2018,8.2,<10
+Jordan,2019,9.5,<10
+Kazakhstan,2016,<2.5,<10
+Kazakhstan,2017,2.6,<10
+Kazakhstan,2018,2.5,<10
+Kazakhstan,2019,<2.5,<10
+Kenya,2016,23.2,20-29
+Kenya,2017,24.6,20-29
+Kenya,2018,24.4,20-29
+Kenya,2019,24.8,20-29
+Kiribati,2016,3.3,<10
+Kiribati,2017,3.5,<10
+Kiribati,2018,3.8,<10
+Kiribati,2019,4.1,<10
+Kuwait,2016,<2.5,<10
+Kuwait,2017,<2.5,<10
+Kuwait,2018,<2.5,<10
+Kuwait,2019,<2.5,<10
+Kyrgyzstan,2016,7.9,<10
+Kyrgyzstan,2017,7.7,<10
+Kyrgyzstan,2018,7.2,<10
+Kyrgyzstan,2019,7.2,<10
+Lao People's Democratic Republic,2016,5.9,<10
+Lao People's Democratic Republic,2017,5.6,<10
+Lao People's Democratic Republic,2018,5.4,<10
+Lao People's Democratic Republic,2019,5.3,<10
+Latvia,2016,<2.5,<10
+Latvia,2017,<2.5,<10
+Latvia,2018,<2.5,<10
+Latvia,2019,<2.5,<10
+Lebanon,2016,6.2,<10
+Lebanon,2017,6.7,<10
+Lebanon,2018,7.2,<10
+Lebanon,2019,9.3,<10
+Lesotho,2016,28.3,20-29
+Lesotho,2017,26,20-29
+Lesotho,2018,20.8,20-29
+Lesotho,2019,23.5,20-29
+Liberia,2016,36.4,30-39
+Liberia,2017,36.6,30-39
+Liberia,2018,37.5,30-39
+Liberia,2019,38.9,30-39
+Lithuania,2016,<2.5,<10
+Lithuania,2017,<2.5,<10
+Lithuania,2018,<2.5,<10
+Lithuania,2019,<2.5,<10
+Luxembourg,2016,<2.5,<10
+Luxembourg,2017,<2.5,<10
+Luxembourg,2018,<2.5,<10
+Luxembourg,2019,<2.5,<10
+Madagascar,2016,41.6,40-49
+Madagascar,2017,42.3,40-49
+Madagascar,2018,42.6,40-49
+Madagascar,2019,43.2,40-49
+Malawi,2016,16.1,10-19
+Malawi,2017,16.5,10-19
+Malawi,2018,16.8,10-19
+Malawi,2019,17.3,10-19
+Malaysia,2016,3.5,<10
+Malaysia,2017,3.4,<10
+Malaysia,2018,3.2,<10
+Malaysia,2019,3.2,<10
+Mali,2016,5.3,<10
+Mali,2017,6.3,<10
+Mali,2018,7.7,<10
+Mali,2019,10.4,10-19
+Malta,2016,<2.5,<10
+Malta,2017,<2.5,<10
+Malta,2018,<2.5,<10
+Malta,2019,<2.5,<10
+Mauritania,2016,8.5,<10
+Mauritania,2017,8.6,<10
+Mauritania,2018,8.7,<10
+Mauritania,2019,9.1,<10
+Mauritius,2016,5.7,<10
+Mauritius,2017,5.9,<10
+Mauritius,2018,5.7,<10
+Mauritius,2019,6.2,<10
+Mexico,2016,5.8,<10
+Mexico,2017,6.1,<10
+Mexico,2018,6.2,<10
+Mexico,2019,7.2,<10
+Mongolia,2016,7.4,<10
+Mongolia,2017,6.3,<10
+Mongolia,2018,5.5,<10
+Mongolia,2019,4.3,<10
+Montenegro,2016,<2.5,<10
+Montenegro,2017,<2.5,<10
+Montenegro,2018,<2.5,<10
+Montenegro,2019,<2.5,<10
+Morocco,2016,3.8,<10
+Morocco,2017,3.7,<10
+Morocco,2018,3.7,<10
+Morocco,2019,4.2,<10
+Mozambique,2016,31.5,30-39
+Mozambique,2017,31.4,30-39
+Mozambique,2018,31,30-39
+Mozambique,2019,31.2,30-39
+Myanmar,2016,8.4,<10
+Myanmar,2017,8.1,<10
+Myanmar,2018,7.8,<10
+Myanmar,2019,7.6,<10
+Namibia,2016,20.2,20-29
+Namibia,2017,20,20-29
+Namibia,2018,19.9,10-19
+Namibia,2019,19.8,10-19
+Nepal,2016,4.5,<10
+Nepal,2017,4.2,<10
+Nepal,2018,4.3,<10
+Nepal,2019,4.8,<10
+Netherlands,2016,<2.5,<10
+Netherlands,2017,<2.5,<10
+Netherlands,2018,<2.5,<10
+Netherlands,2019,<2.5,<10
+New Caledonia,2016,6.5,<10
+New Caledonia,2017,6.8,<10
+New Caledonia,2018,7,<10
+New Caledonia,2019,6.9,<10
+New Zealand,2016,<2.5,<10
+New Zealand,2017,<2.5,<10
+New Zealand,2018,<2.5,<10
+New Zealand,2019,<2.5,<10
+Nicaragua,2016,18,10-19
+Nicaragua,2017,17.6,10-19
+Nicaragua,2018,18.2,10-19
+Nicaragua,2019,19.3,10-19
+Nigeria,2016,9.4,<10
+Nigeria,2017,10,10-19
+Nigeria,2018,10.7,10-19
+Nigeria,2019,14.6,10-19
+North Macedonia,2016,3,<10
+North Macedonia,2017,2.7,<10
+North Macedonia,2018,<2.5,<10
+North Macedonia,2019,2.7,<10
+Norway,2016,<2.5,<10
+Norway,2017,<2.5,<10
+Norway,2018,<2.5,<10
+Norway,2019,<2.5,<10
+Oman,2016,8.4,<10
+Oman,2017,8.4,<10
+Oman,2018,8.1,<10
+Oman,2019,8.2,<10
+Pakistan,2016,12.4,10-19
+Pakistan,2017,12.1,10-19
+Pakistan,2018,12.2,10-19
+Pakistan,2019,12.9,10-19
+Panama,2016,7.8,<10
+Panama,2017,7.5,<10
+Panama,2018,7.4,<10
+Panama,2019,7.5,<10
+Papua New Guinea,2016,25.2,20-29
+Papua New Guinea,2017,25.1,20-29
+Papua New Guinea,2018,24.9,20-29
+Papua New Guinea,2019,24.6,20-29
+Paraguay,2016,7.7,<10
+Paraguay,2017,7.8,<10
+Paraguay,2018,7.9,<10
+Paraguay,2019,9.2,<10
+Peru,2016,6.9,<10
+Peru,2017,7.6,<10
+Peru,2018,7.9,<10
+Peru,2019,8.7,<10
+Philippines,2016,12.1,10-19
+Philippines,2017,10.9,10-19
+Philippines,2018,9.7,<10
+Philippines,2019,9.4,<10
+Poland,2016,<2.5,<10
+Poland,2017,<2.5,<10
+Poland,2018,<2.5,<10
+Poland,2019,<2.5,<10
+Portugal,2016,<2.5,<10
+Portugal,2017,<2.5,<10
+Portugal,2018,<2.5,<10
+Portugal,2019,<2.5,<10
+Republic of Korea,2016,<2.5,<10
+Republic of Korea,2017,<2.5,<10
+Republic of Korea,2018,<2.5,<10
+Republic of Korea,2019,<2.5,<10
+Romania,2016,<2.5,<10
+Romania,2017,<2.5,<10
+Romania,2018,<2.5,<10
+Romania,2019,<2.5,<10
+Russian Federation,2016,<2.5,<10
+Russian Federation,2017,<2.5,<10
+Russian Federation,2018,<2.5,<10
+Russian Federation,2019,<2.5,<10
+Rwanda,2016,34.8,30-39
+Rwanda,2017,34.5,30-39
+Rwanda,2018,34.3,30-39
+Rwanda,2019,35.2,30-39
+Saint Vincent and the Grenadines,2016,5.6,<10
+Saint Vincent and the Grenadines,2017,5.5,<10
+Saint Vincent and the Grenadines,2018,5.5,<10
+Saint Vincent and the Grenadines,2019,5.6,<10
+Samoa,2016,4.7,<10
+Samoa,2017,4.7,<10
+Samoa,2018,4.6,<10
+Samoa,2019,4.6,<10
+Sao Tome and Principe,2016,12.6,10-19
+Sao Tome and Principe,2017,11.8,10-19
+Sao Tome and Principe,2018,11.8,10-19
+Sao Tome and Principe,2019,11.9,10-19
+Saudi Arabia,2016,3.7,<10
+Saudi Arabia,2017,3.7,<10
+Saudi Arabia,2018,3.8,<10
+Saudi Arabia,2019,3.9,<10
+Senegal,2016,8.9,<10
+Senegal,2017,7.9,<10
+Senegal,2018,7.4,<10
+Senegal,2019,7.5,<10
+Serbia,2016,4.2,<10
+Serbia,2017,4,<10
+Serbia,2018,3.8,<10
+Serbia,2019,3.9,<10
+Sierra Leone,2016,25.4,20-29
+Sierra Leone,2017,26.2,20-29
+Sierra Leone,2018,25.7,20-29
+Sierra Leone,2019,26.2,20-29
+Slovakia,2016,5.6,<10
+Slovakia,2017,4.5,<10
+Slovakia,2018,4.1,<10
+Slovakia,2019,4,<10
+Slovenia,2016,<2.5,<10
+Slovenia,2017,<2.5,<10
+Slovenia,2018,<2.5,<10
+Slovenia,2019,<2.5,<10
+Solomon Islands,2016,18,10-19
+Solomon Islands,2017,17.6,10-19
+Solomon Islands,2018,17,10-19
+Solomon Islands,2019,16.5,10-19
+Somalia,2016,57.8,>50
+Somalia,2017,58.7,>50
+Somalia,2018,57.4,>50
+Somalia,2019,59.5,>50
+South Africa,2016,5.4,<10
+South Africa,2017,5.5,<10
+South Africa,2018,5.5,<10
+South Africa,2019,6.5,<10
+Spain,2016,<2.5,<10
+Spain,2017,<2.5,<10
+Spain,2018,<2.5,<10
+Spain,2019,<2.5,<10
+Sri Lanka,2016,6.3,<10
+Sri Lanka,2017,5.9,<10
+Sri Lanka,2018,6,<10
+Sri Lanka,2019,6.8,<10
+Sudan,2016,11.8,10-19
+Sudan,2017,11.8,10-19
+Sudan,2018,12,10-19
+Sudan,2019,12.3,10-19
+Suriname,2016,8.2,<10
+Suriname,2017,8.4,<10
+Suriname,2018,8.5,<10
+Suriname,2019,8.7,<10
+Sweden,2016,<2.5,<10
+Sweden,2017,<2.5,<10
+Sweden,2018,<2.5,<10
+Sweden,2019,<2.5,<10
+Switzerland,2016,<2.5,<10
+Switzerland,2017,<2.5,<10
+Switzerland,2018,<2.5,<10
+Switzerland,2019,<2.5,<10
+Thailand,2016,7.5,<10
+Thailand,2017,7.7,<10
+Thailand,2018,7.9,<10
+Thailand,2019,8.2,<10
+Timor-Leste,2016,24.1,20-29
+Timor-Leste,2017,24,20-29
+Timor-Leste,2018,23.3,20-29
+Timor-Leste,2019,22.6,20-29
+Togo,2016,21.6,20-29
+Togo,2017,21.2,20-29
+Togo,2018,20.9,20-29
+Togo,2019,20.4,20-29
+Trinidad and Tobago,2016,6.8,<10
+Trinidad and Tobago,2017,6.8,<10
+Trinidad and Tobago,2018,6.7,<10
+Trinidad and Tobago,2019,6.7,<10
+Tunisia,2016,<2.5,<10
+Tunisia,2017,<2.5,<10
+Tunisia,2018,2.5,<10
+Tunisia,2019,3,<10
+Turkey,2016,<2.5,<10
+Turkey,2017,<2.5,<10
+Turkey,2018,<2.5,<10
+Turkey,2019,<2.5,<10
+Turkmenistan,2016,3.4,<10
+Turkmenistan,2017,3.7,<10
+Turkmenistan,2018,3.9,<10
+Turkmenistan,2019,4.1,<10
+Ukraine,2016,<2.5,<10
+Ukraine,2017,<2.5,<10
+Ukraine,2018,<2.5,<10
+Ukraine,2019,<2.5,<10
+United Arab Emirates,2016,2.9,<10
+United Arab Emirates,2017,3.2,<10
+United Arab Emirates,2018,3.4,<10
+United Arab Emirates,2019,3.7,<10
+United Kingdom of Great Britain and Northern Ireland,2016,<2.5,<10
+United Kingdom of Great Britain and Northern Ireland,2017,<2.5,<10
+United Kingdom of Great Britain and Northern Ireland,2018,<2.5,<10
+United Kingdom of Great Britain and Northern Ireland,2019,<2.5,<10
+United Republic of Tanzania,2016,24.1,20-29
+United Republic of Tanzania,2017,24.1,20-29
+United Republic of Tanzania,2018,24.2,20-29
+United Republic of Tanzania,2019,25.1,20-29
+United States of America,2016,<2.5,<10
+United States of America,2017,<2.5,<10
+United States of America,2018,<2.5,<10
+United States of America,2019,<2.5,<10
+Uruguay,2016,<2.5,<10
+Uruguay,2017,<2.5,<10
+Uruguay,2018,<2.5,<10
+Uruguay,2019,<2.5,<10
+Uzbekistan,2016,<2.5,<10
+Uzbekistan,2017,<2.5,<10
+Uzbekistan,2018,<2.5,<10
+Uzbekistan,2019,<2.5,<10
+Vanuatu,2016,8.9,<10
+Vanuatu,2017,9.6,<10
+Vanuatu,2018,9.5,<10
+Vanuatu,2019,9.3,<10
+Venezuela (Bolivarian Republic of),2016,16.4,10-19
+Venezuela (Bolivarian Republic of),2017,22.2,20-29
+Venezuela (Bolivarian Republic of),2018,23.4,20-29
+Venezuela (Bolivarian Republic of),2019,27.4,20-29
+Viet Nam,2016,7.8,<10
+Viet Nam,2017,7.2,<10
+Viet Nam,2018,6.8,<10
+Viet Nam,2019,6.7,<10
+Yemen,2016,46.1,40-49
+Yemen,2017,46.6,40-49
+Yemen,2018,45.4,40-49
+Yemen,2019,45.4,40-49
