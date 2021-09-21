@@ -14,7 +14,7 @@
       "lookup": "properties.name",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/data.csv"
+          "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/f6d4c70c037cfcc2086d3d78b5d0b8f4ec26063b/data/data.csv"
         },
         "key": "Area",
         "fields": ["Value", "Area", "YearCode"]
@@ -23,7 +23,7 @@
     {
       "bin": true,
       "field": "Value",
-      "as": "Value (%))"
+      "as": "Value (%)"
     }
   ],
   "mark": {
