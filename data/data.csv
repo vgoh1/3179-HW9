@@ -103,10 +103,10 @@ Brazil,2016,<2.5,<10
 Brazil,2017,<2.5,<10
 Brazil,2018,<2.5,<10
 Brazil,2019,<2.5,<10
-Brunei Darussalam,2016,<2.5,<10
-Brunei Darussalam,2017,<2.5,<10
-Brunei Darussalam,2018,<2.5,<10
-Brunei Darussalam,2019,<2.5,<10
+Brunei,2016,<2.5,<10
+Brunei,2017,<2.5,<10
+Brunei,2018,<2.5,<10
+Brunei,2019,<2.5,<10
 Bulgaria,2016,3.6,<10
 Bulgaria,2017,3.1,<10
 Bulgaria,2018,2.8,<10
@@ -195,10 +195,10 @@ Czechia,2016,<2.5,<10
 Czechia,2017,<2.5,<10
 Czechia,2018,<2.5,<10
 Czechia,2019,<2.5,<10
-Democratic People's Republic of Korea,2016,41.2,40-49
-Democratic People's Republic of Korea,2017,42.9,40-49
-Democratic People's Republic of Korea,2018,42.6,40-49
-Democratic People's Republic of Korea,2019,42.4,40-49
+North Korea,2016,41.2,40-49
+North Korea,2017,42.9,40-49
+North Korea,2018,42.6,40-49
+North Korea,2019,42.4,40-49
 Democratic Republic of the Congo,2016,39.9,30-39
 Democratic Republic of the Congo,2017,40.2,40-49
 Democratic Republic of the Congo,2018,40.4,40-49
@@ -307,10 +307,10 @@ Guinea,2016,,null
 Guinea,2017,,null
 Guinea,2018,,null
 Guinea,2019,,null
-Guinea-Bissau,2016,,null
-Guinea-Bissau,2017,,null
-Guinea-Bissau,2018,,null
-Guinea-Bissau,2019,,null
+Guinea Bissau,2016,,null
+Guinea Bissau,2017,,null
+Guinea Bissau,2018,,null
+Guinea Bissau,2019,,null
 Guyana,2016,6.3,<10
 Guyana,2017,6,<10
 Guyana,2018,5.5,<10
@@ -339,10 +339,10 @@ Indonesia,2016,6.8,<10
 Indonesia,2017,6.4,<10
 Indonesia,2018,6.4,<10
 Indonesia,2019,6.5,<10
-Iran (Islamic Republic of),2016,4.9,<10
-Iran (Islamic Republic of),2017,5.2,<10
-Iran (Islamic Republic of),2018,5.4,<10
-Iran (Islamic Republic of),2019,5.5,<10
+Iran,2016,4.9,<10
+Iran,2017,5.2,<10
+Iran,2018,5.4,<10
+Iran,2019,5.5,<10
 Iraq,2016,38.4,30-39
 Iraq,2017,37.9,30-39
 Iraq,2018,37.4,30-39
@@ -391,10 +391,10 @@ Kyrgyzstan,2016,7.9,<10
 Kyrgyzstan,2017,7.7,<10
 Kyrgyzstan,2018,7.2,<10
 Kyrgyzstan,2019,7.2,<10
-Lao People's Democratic Republic,2016,5.9,<10
-Lao People's Democratic Republic,2017,5.6,<10
-Lao People's Democratic Republic,2018,5.4,<10
-Lao People's Democratic Republic,2019,5.3,<10
+Laos,2016,5.9,<10
+Laos,2017,5.6,<10
+Laos,2018,5.4,<10
+Laos,2019,5.3,<10
 Latvia,2016,<2.5,<10
 Latvia,2017,<2.5,<10
 Latvia,2018,<2.5,<10
@@ -587,14 +587,14 @@ Qatar,2016,,null
 Qatar,2017,,null
 Qatar,2018,,null
 Qatar,2019,,null
-Republic of Korea,2016,<2.5,<10
-Republic of Korea,2017,<2.5,<10
-Republic of Korea,2018,<2.5,<10
-Republic of Korea,2019,<2.5,<10
-Republic of Moldova,2016,,null
-Republic of Moldova,2017,,null
-Republic of Moldova,2018,,null
-Republic of Moldova,2019,,null
+South Korea,2016,<2.5,<10
+South Korea,2017,<2.5,<10
+South Korea,2018,<2.5,<10
+South Korea,2019,<2.5,<10
+Moldova,2016,,null
+Moldova,2017,,null
+Moldova,2018,,null
+Moldova,2019,,null
 Romania,2016,<2.5,<10
 Romania,2017,<2.5,<10
 Romania,2018,<2.5,<10
