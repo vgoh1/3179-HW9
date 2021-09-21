@@ -11,19 +11,14 @@
   },
   "transform": [
     {
-      "lookup": "properties.name",
+      "lookup": "properties.admin",
       "from": {
         "data": {
           "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/data.csv"
         },
         "key": "Country",
-        "fields": ["Value", "Country", "Year"]
+        "fields": ["Value", "Country", "Year", "BinValue"]
       }
-    },
-    {
-      "bin": true,
-      "field": "Value",
-      "as": "Value (%)"
     }
   ],
   "mark": {
@@ -35,12 +30,16 @@
         "binned": true,
         "step": 10
       },
-      "field": "Value (%)",
-      "type": "quantitative"
+      "field": "BinValue",
+      "type": "ordinal",
+      "sort": ["null", "<10", "10-19", "20-29", "30-39", "40-49"],
+      "legend": {
+        "title": "Value (%)"
+      }
     },
     "tooltip": [
       { "field": "Country", "type": "nominal" },
-      { "field": "Value", "type": "quantitative" }
+      { "field": "Value", "type": "ordinal" }
     ]
   }
 }
