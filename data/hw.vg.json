@@ -18,6 +18,12 @@
         "key": "Area",
         "fields": ["Value"]
       }
+    },
+    {
+      "filter": {
+        "field": "YearCode",
+        "equal": "20152017"
+      }
     }
   ],
   "mark": {
