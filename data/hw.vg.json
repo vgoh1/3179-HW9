@@ -23,7 +23,7 @@
     {
       "bin": true,
       "field": "Value",
-      "as": "Value Binned"
+      "as": "Value (%))"
     }
   ],
   "mark": {
@@ -35,7 +35,7 @@
         "binned": true,
         "step": 10
       },
-      "field": "Value Binned",
+      "field": "Value (%)",
       "type": "quantitative"
     },
     "tooltip": [
