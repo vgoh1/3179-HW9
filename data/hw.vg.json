@@ -1,32 +1,31 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
-  "height": 300,
+  "description": "A simple bar chart with embedded data.",
+  "projection": { "type": "equalEarth" },
+  "width": 800,
+  "height": 500,
   "data": {
-    "url": "data/world.geo.json",
-    "format": {
-      "property": "features"
-    }
+    "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/world.topo.json",
+    "format": { "type": "topojson", "feature": "world.geo" }
   },
   "transform": [
     {
-      "lookup": "name",
+      "lookup": "properties.name",
       "from": {
         "data": {
-          "url": "data/FAOSTAT_data_8-15-2021.csv"
+          "url": "https://raw.githubusercontent.com/vgoh1/3179-HW9/main/data/data.csv"
         },
-        "key": "area",
-        "fields": ["area"]
+        "key": "Area",
+        "fields": ["Value"]
       }
     }
   ],
-  "projection": {
-    "type": "albersUsa"
+  "mark": {
+    "type": "geoshape"
   },
-  "mark": "geoshape",
   "encoding": {
     "color": {
-      "field": "rate",
+      "field": "Value",
       "type": "quantitative"
     }
   }
