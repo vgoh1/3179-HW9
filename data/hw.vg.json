@@ -10,13 +10,13 @@
   },
   "transform": [
     {
-      "lookup": "id",
+      "lookup": "name",
       "from": {
         "data": {
-          "url": "data/unemployment.tsv"
+          "url": "data/FAOSTAT_data_8-15-2021.csv"
         },
-        "key": "id",
-        "fields": ["rate"]
+        "key": "area",
+        "fields": ["area"]
       }
     }
   ],
