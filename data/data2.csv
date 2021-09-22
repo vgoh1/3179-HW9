@@ -3,12 +3,12 @@ Afghanistan,2016,22.2,15-25
 Afghanistan,2017,23,15-25
 Afghanistan,2018,23.4,15-25
 Afghanistan,2019,25.6,25-35
-Albania,2016,4.3,<10
-Albania,2017,4.1,<10
-Albania,2018,4,<10
-Albania,2019,3.9,<10
-Algeria,2016,2.8,<10
-Algeria,2017,2.7,<10
+Albania,2016,4.3,<5
+Albania,2017,4.1,<5
+Albania,2018,4,<5
+Albania,2019,3.9,<5
+Algeria,2016,2.8,<5
+Algeria,2017,2.7,<5
 Algeria,2018,<2.5,<10
 Algeria,2019,<2.5,<10
 American Samoa,2016,null,null
@@ -27,14 +27,14 @@ Antigua and Barbuda,2016,null,null
 Antigua and Barbuda,2017,null,null
 Antigua and Barbuda,2018,null,null
 Antigua and Barbuda,2019,null,null
-Argentina,2016,2.6,<10
-Argentina,2017,3.1,<10
-Argentina,2018,3.5,<10
-Argentina,2019,3.9,<10
-Armenia,2016,2.8,<10
-Armenia,2017,3.1,<10
-Armenia,2018,3.2,<10
-Armenia,2019,3.4,<10
+Argentina,2016,2.6,<5
+Argentina,2017,3.1,<5
+Argentina,2018,3.5,<5
+Argentina,2019,3.9,<5
+Armenia,2016,2.8,<5
+Armenia,2017,3.1,<5
+Armenia,2018,3.2,<5
+Armenia,2019,3.4,<5
 Australia,2016,<2.5,<10
 Australia,2017,<2.5,<10
 Australia,2018,<2.5,<10
@@ -59,10 +59,10 @@ Bangladesh,2016,13.3,5-15
 Bangladesh,2017,12.5,5-15
 Bangladesh,2018,10.8,5-15
 Bangladesh,2019,9.7,5-15
-Barbados,2016,4.3,<10
-Barbados,2017,4.3,<10
-Barbados,2018,4.2,<10
-Barbados,2019,4.1,<10
+Barbados,2016,4.3,<5
+Barbados,2017,4.3,<5
+Barbados,2018,4.2,<5
+Barbados,2019,4.1,<5
 Belarus,2016,<2.5,<10
 Belarus,2017,<2.5,<10
 Belarus,2018,<2.5,<10
@@ -107,10 +107,10 @@ Brunei,2016,<2.5,<10
 Brunei,2017,<2.5,<10
 Brunei,2018,<2.5,<10
 Brunei,2019,<2.5,<10
-Bulgaria,2016,3.6,<10
-Bulgaria,2017,3.1,<10
-Bulgaria,2018,2.8,<10
-Bulgaria,2019,3,<10
+Bulgaria,2016,3.6,<5
+Bulgaria,2017,3.1,<5
+Bulgaria,2018,2.8,<5
+Bulgaria,2019,3,<5
 Burkina Faso,2016,12.3,5-15
 Burkina Faso,2017,12.4,5-15
 Burkina Faso,2018,12.7,5-15
@@ -143,18 +143,18 @@ Chad,2016,28.5,25-35
 Chad,2017,29.1,25-35
 Chad,2018,30.4,25-35
 Chad,2019,31.7,25-35
-Chile,2016,3.1,<10
-Chile,2017,3,<10
-Chile,2018,3,<10
-Chile,2019,3.4,<10
+Chile,2016,3.1,<5
+Chile,2017,3,<5
+Chile,2018,3,<5
+Chile,2019,3.4,<5
 China,2016,<2.5,<10
 China,2017,<2.5,<10
 China,2018,<2.5,<10
 China,2019,<2.5,<10
-Taiwan,2016,3.9,<10
-Taiwan,2017,3.7,<10
-Taiwan,2018,3.6,<10
-Taiwan,2019,3.3,<10
+Taiwan,2016,3.9,<5
+Taiwan,2017,3.7,<5
+Taiwan,2018,3.6,<5
+Taiwan,2019,3.3,<5
 Colombia,2016,6.8,5-15
 Colombia,2017,7.1,5-15
 Colombia,2018,7.9,5-15
@@ -171,10 +171,10 @@ Cook Islands,2016,null,null
 Cook Islands,2017,null,null
 Cook Islands,2018,null,null
 Cook Islands,2019,null,null
-Costa Rica,2016,3.6,<10
-Costa Rica,2017,3.1,<10
-Costa Rica,2018,3,<10
-Costa Rica,2019,3.1,<10
+Costa Rica,2016,3.6,<5
+Costa Rica,2017,3.1,<5
+Costa Rica,2018,3,<5
+Costa Rica,2019,3.1,<5
 Côte d'Ivoire,2016,15.5,15-25
 Côte d'Ivoire,2017,15,15-25
 Côte d'Ivoire,2018,14.9,5-15
@@ -223,8 +223,8 @@ Ecuador,2016,9.7,5-15
 Ecuador,2017,10.7,5-15
 Ecuador,2018,11.2,5-15
 Ecuador,2019,12.4,5-15
-Egypt,2016,4.6,<10
-Egypt,2017,4.9,<10
+Egypt,2016,4.6,<5
+Egypt,2017,4.9,<5
 Egypt,2018,5.1,5-15
 Egypt,2019,5.4,5-15
 El Salvador,2016,9.9,5-15
@@ -263,10 +263,10 @@ France,2016,<2.5,<10
 France,2017,<2.5,<10
 France,2018,<2.5,<10
 France,2019,<2.5,<10
-French Polynesia,2016,3.8,<10
-French Polynesia,2017,4,<10
-French Polynesia,2018,3.9,<10
-French Polynesia,2019,3.8,<10
+French Polynesia,2016,3.8,<5
+French Polynesia,2017,4,<5
+French Polynesia,2018,3.9,<5
+French Polynesia,2019,3.8,<5
 Gabon,2016,15,15-25
 Gabon,2017,16,15-25
 Gabon,2018,16.2,15-25
@@ -339,7 +339,7 @@ Indonesia,2016,6.8,5-15
 Indonesia,2017,6.4,5-15
 Indonesia,2018,6.4,5-15
 Indonesia,2019,6.5,5-15
-Iran,2016,4.9,<10
+Iran,2016,4.9,<5
 Iran,2017,5.2,5-15
 Iran,2018,5.4,5-15
 Iran,2019,5.5,5-15
@@ -372,17 +372,17 @@ Jordan,2017,7.7,5-15
 Jordan,2018,8.2,5-15
 Jordan,2019,9.5,5-15
 Kazakhstan,2016,<2.5,<10
-Kazakhstan,2017,2.6,<10
-Kazakhstan,2018,2.5,<10
+Kazakhstan,2017,2.6,<5
+Kazakhstan,2018,2.5,<5
 Kazakhstan,2019,<2.5,<10
 Kenya,2016,23.2,15-25
 Kenya,2017,24.6,15-25
 Kenya,2018,24.4,15-25
 Kenya,2019,24.8,15-25
-Kiribati,2016,3.3,<10
-Kiribati,2017,3.5,<10
-Kiribati,2018,3.8,<10
-Kiribati,2019,4.1,<10
+Kiribati,2016,3.3,<5
+Kiribati,2017,3.5,<5
+Kiribati,2018,3.8,<5
+Kiribati,2019,4.1,<5
 Kuwait,2016,<2.5,<10
 Kuwait,2017,<2.5,<10
 Kuwait,2018,<2.5,<10
@@ -431,10 +431,10 @@ Malawi,2016,16.1,15-25
 Malawi,2017,16.5,15-25
 Malawi,2018,16.8,15-25
 Malawi,2019,17.3,15-25
-Malaysia,2016,3.5,<10
-Malaysia,2017,3.4,<10
-Malaysia,2018,3.2,<10
-Malaysia,2019,3.2,<10
+Malaysia,2016,3.5,<5
+Malaysia,2017,3.4,<5
+Malaysia,2018,3.2,<5
+Malaysia,2019,3.2,<5
 Maldives,2016,null,null
 Maldives,2017,null,null
 Maldives,2018,null,null
@@ -470,15 +470,15 @@ Micronesia (Federated States of),2019,null,null
 Mongolia,2016,7.4,5-15
 Mongolia,2017,6.3,5-15
 Mongolia,2018,5.5,5-15
-Mongolia,2019,4.3,<10
+Mongolia,2019,4.3,<5
 Montenegro,2016,<2.5,<10
 Montenegro,2017,<2.5,<10
 Montenegro,2018,<2.5,<10
 Montenegro,2019,<2.5,<10
-Morocco,2016,3.8,<10
-Morocco,2017,3.7,<10
-Morocco,2018,3.7,<10
-Morocco,2019,4.2,<10
+Morocco,2016,3.8,<5
+Morocco,2017,3.7,<5
+Morocco,2018,3.7,<5
+Morocco,2019,4.2,<5
 Mozambique,2016,31.5,25-35
 Mozambique,2017,31.4,25-35
 Mozambique,2018,31,25-35
@@ -495,10 +495,10 @@ Nauru,2016,null,null
 Nauru,2017,null,null
 Nauru,2018,null,null
 Nauru,2019,null,null
-Nepal,2016,4.5,<10
-Nepal,2017,4.2,<10
-Nepal,2018,4.3,<10
-Nepal,2019,4.8,<10
+Nepal,2016,4.5,<5
+Nepal,2017,4.2,<5
+Nepal,2018,4.3,<5
+Nepal,2019,4.8,<5
 Netherlands,2016,<2.5,<10
 Netherlands,2017,<2.5,<10
 Netherlands,2018,<2.5,<10
@@ -527,10 +527,10 @@ Niue,2016,null,null
 Niue,2017,null,null
 Niue,2018,null,null
 Niue,2019,null,null
-North Macedonia,2016,3,<10
-North Macedonia,2017,2.7,<10
+North Macedonia,2016,3,<5
+North Macedonia,2017,2.7,<5
 North Macedonia,2018,<2.5,<10
-North Macedonia,2019,2.7,<10
+North Macedonia,2019,2.7,<5
 Norway,2016,<2.5,<10
 Norway,2017,<2.5,<10
 Norway,2018,<2.5,<10
@@ -619,26 +619,26 @@ Saint Vincent and the Grenadines,2016,5.6,5-15
 Saint Vincent and the Grenadines,2017,5.5,5-15
 Saint Vincent and the Grenadines,2018,5.5,5-15
 Saint Vincent and the Grenadines,2019,5.6,5-15
-Samoa,2016,4.7,<10
-Samoa,2017,4.7,<10
-Samoa,2018,4.6,<10
-Samoa,2019,4.6,<10
+Samoa,2016,4.7,<5
+Samoa,2017,4.7,<5
+Samoa,2018,4.6,<5
+Samoa,2019,4.6,<5
 Sao Tome and Principe,2016,12.6,5-15
 Sao Tome and Principe,2017,11.8,5-15
 Sao Tome and Principe,2018,11.8,5-15
 Sao Tome and Principe,2019,11.9,5-15
-Saudi Arabia,2016,3.7,<10
-Saudi Arabia,2017,3.7,<10
-Saudi Arabia,2018,3.8,<10
-Saudi Arabia,2019,3.9,<10
+Saudi Arabia,2016,3.7,<5
+Saudi Arabia,2017,3.7,<5
+Saudi Arabia,2018,3.8,<5
+Saudi Arabia,2019,3.9,<5
 Senegal,2016,8.9,5-15
 Senegal,2017,7.9,5-15
 Senegal,2018,7.4,5-15
 Senegal,2019,7.5,5-15
-Serbia,2016,4.2,<10
-Serbia,2017,4,<10
-Serbia,2018,3.8,<10
-Serbia,2019,3.9,<10
+Serbia,2016,4.2,<5
+Serbia,2017,4,<5
+Serbia,2018,3.8,<5
+Serbia,2019,3.9,<5
 Seychelles,2016,null,null
 Seychelles,2017,null,null
 Seychelles,2018,null,null
@@ -652,9 +652,9 @@ Singapore,2017,null,null
 Singapore,2018,null,null
 Singapore,2019,null,null
 Slovakia,2016,5.6,5-15
-Slovakia,2017,4.5,<10
-Slovakia,2018,4.1,<10
-Slovakia,2019,4,<10
+Slovakia,2017,4.5,<5
+Slovakia,2018,4.1,<5
+Slovakia,2019,4,<5
 Slovenia,2016,<2.5,<10
 Slovenia,2017,<2.5,<10
 Slovenia,2018,<2.5,<10
@@ -733,16 +733,16 @@ Trinidad and Tobago,2018,6.7,5-15
 Trinidad and Tobago,2019,6.7,5-15
 Tunisia,2016,<2.5,<10
 Tunisia,2017,<2.5,<10
-Tunisia,2018,2.5,<10
-Tunisia,2019,3,<10
+Tunisia,2018,2.5,<5
+Tunisia,2019,3,<5
 Turkey,2016,<2.5,<10
 Turkey,2017,<2.5,<10
 Turkey,2018,<2.5,<10
 Turkey,2019,<2.5,<10
-Turkmenistan,2016,3.4,<10
-Turkmenistan,2017,3.7,<10
-Turkmenistan,2018,3.9,<10
-Turkmenistan,2019,4.1,<10
+Turkmenistan,2016,3.4,<5
+Turkmenistan,2017,3.7,<5
+Turkmenistan,2018,3.9,<5
+Turkmenistan,2019,4.1,<5
 Tuvalu,2016,null,null
 Tuvalu,2017,null,null
 Tuvalu,2018,null,null
@@ -755,10 +755,10 @@ Ukraine,2016,<2.5,<10
 Ukraine,2017,<2.5,<10
 Ukraine,2018,<2.5,<10
 Ukraine,2019,<2.5,<10
-United Arab Emirates,2016,2.9,<10
-United Arab Emirates,2017,3.2,<10
-United Arab Emirates,2018,3.4,<10
-United Arab Emirates,2019,3.7,<10
+United Arab Emirates,2016,2.9,<5
+United Arab Emirates,2017,3.2,<5
+United Arab Emirates,2018,3.4,<5
+United Arab Emirates,2019,3.7,<5
 United Kingdom,2016,<2.5,<10
 United Kingdom,2017,<2.5,<10
 United Kingdom,2018,<2.5,<10
