@@ -39,10 +39,27 @@
           "scale": { "rangeMax": 1000 },
           "legend": null
         },
-        "color": {
+        "fill": {
           "field": "BinValue",
           "type": "ordinal",
           "legend": { "title": "Value" }
+        },
+        "stroke": {
+          "field": "Value",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [5, 15, 25, 35, 45, 59.5],
+            "range": [
+              "#ffffb2",
+              "#fed976",
+              "#feb24c",
+              "#fd8d3c",
+              "#fc4e2a",
+              "#e31a1c",
+              "#b10026"
+            ]
+          }
         },
         "tooltip": [
           { "field": "Country", "type": "nominal" },
