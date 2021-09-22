@@ -39,7 +39,7 @@
           "scale": { "rangeMax": 1000 },
           "legend": null
         },
-        "color": {
+        "fill": {
           "field": "BinValue",
           "type": "ordinal",
           "legend": { "title": "Value" }
